@@ -1,0 +1,24 @@
+{
+  "name": "imageshrinkapp",
+  "version": "1.0.0",
+  "description": "App to optimize images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stenjansarv/imageShrinkApp.git"
+  },
+  "author": "Sten-Jan Sarv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stenjansarv/imageShrinkApp/issues"
+  },
+  "homepage": "https://github.com/stenjansarv/imageShrinkApp#readme",
+  "devDependencies": {
+    "electron": "^9.1.1",
+    "nodemon": "^2.0.4"
+  }
+}

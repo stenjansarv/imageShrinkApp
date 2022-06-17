@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/stenjansarv/imageShrinkApp#readme",
   "devDependencies": {
-    "electron": "^9.1.1",
+    "electron": "^15.5.5",
     "electron-packager": "^15.0.0",
     "nodemon": "^2.0.4"
   },
